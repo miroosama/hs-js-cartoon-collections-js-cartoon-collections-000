@@ -33,7 +33,7 @@ var cheeses = ["cheddar", "gouda", "camembart"];
       if(foods[i] === cheeses[j]){
         return foods[i];
       }
-      }
     }
     return "no cheese!"
   }
+}
